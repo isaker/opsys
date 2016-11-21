@@ -1,0 +1,13 @@
+lol.txt
+lsh
+lsh.c
+lsh.c~
+lsh.o
+ls.txt
+Makefile
+out.txt
+parse.c
+parse.h
+parse.o
+tmp.1
+tmp.2
